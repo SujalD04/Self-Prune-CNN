@@ -49,7 +49,8 @@ Analysis
 •	Moderate pruning acts as a form of regularization, helping maintain strong generalization performance
 
 Gate Value Distribution
-<img width="1078" height="640" alt="image" src="https://github.com/user-attachments/assets/81d4602d-f215-49c4-87af-f43bf3df7968" />
+<img width="999" height="660" alt="image" src="https://github.com/user-attachments/assets/6745325b-4bfa-4504-8c68-ca1f881bf4c0" />
+
 
  
 The distribution shows:
