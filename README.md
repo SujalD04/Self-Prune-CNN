@@ -76,7 +76,7 @@ Where:
 
 ## Gate Distribution
 
-*(Insert histogram image here)*
+![1777021460062](image/README/1777021460062.png)
 
 Expected pattern:
 
