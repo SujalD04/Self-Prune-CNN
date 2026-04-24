@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data
+data/
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Logs
+*.log
+
+# Matplotlib cache
+.matplotlib/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.npy
+*.npz
